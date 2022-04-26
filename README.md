@@ -16,9 +16,10 @@ const technicalSkills = {
 }
 ```
 
+## Connect with me!
 
 [![Linkedin: jimmy-hoang](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimmy-hoang/)
 [![Discord 1set.ky](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/127745669875236864)
-[![Github: jhoangqm](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhoangqm)
+
 
 
