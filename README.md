@@ -8,9 +8,13 @@
 - Hobby: Playing guitar, producing music and playing video games
 
 
-
-
-
+```javascript
+const technicalSkills = {
+  protocols: [TCP/IP, DHCP, DNS, HTTP, HTTPS, FTP/S, SSH];
+  virtualization: [Proxmox 5.x, Parallels for Mac, VBox 5.x+ OpenStack, VMware];
+  tools: [Windows, Linux, Docker, JIRA, OTRS, AWS(DynamoDB, S3, EC2), nginx, git];
+}
+```
 
 
 [![Linkedin: jimmy-hoang](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimmy-hoang/)
