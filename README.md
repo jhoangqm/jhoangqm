@@ -4,7 +4,7 @@
 ### <img src="https://media3.giphy.com/media/mXbQ2IU02cGRhBO2ye/giphy.gif" width="50"> 
 
 - I'm currently learning Javascript, Node.js, React, HTML, CSS, Ruby, Python and more..
-- 2022-23 goals: Dig in web3 development
+- 2022-23 goals: Web3 development
 - Hobby: Playing guitar, producing music and playing video games
 
 
