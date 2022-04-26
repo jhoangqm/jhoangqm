@@ -10,7 +10,7 @@
 
 ```javascript
 const technicalSkills = {
-  protocols: [TCP/IP, DHCP, DNS, HTTP, HTTPS, FTP/S, SSH];
+  protocols: [TCP/IP, DHCP, DNS, HTTP, HTTPS, FTP, SSH];
   virtualization: [Proxmox 5.x, Parallels for Mac, VBox 5.x+ OpenStack, VMware];
   tools: [Windows, Linux, Docker, JIRA, OTRS, AWS(DynamoDB, S3, EC2), nginx, git];
 }
