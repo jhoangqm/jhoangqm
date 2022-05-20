@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ky! <img src="https://i.pinimg.com/originals/a8/8b/e9/a88be9f7deb90c3e1779b9fd414ea8db.gif" width="50"></h2>
-<img align='right' src="https://c.tenor.com/RUhEgohAhzMAAAAd/ulquiorra-ichigo.gif" width="230">
+<img align="right" src="https://c.tenor.com/RUhEgohAhzMAAAAd/ulquiorra-ichigo.gif" width="230">
 
 <img src="https://media3.giphy.com/media/mXbQ2IU02cGRhBO2ye/giphy.gif" width="50"> 
 
