@@ -9,9 +9,12 @@
 
 ```javascript
 const technicalSkills = {
-  protocols: [TCP/IP, DHCP, DNS, HTTP, HTTPS, FTP, SSH];
-  virtualization: [Proxmox 5.x, Parallels for Mac, VBox 5.x+ OpenStack, VMware];
-  tools: [Windows, Linux, Docker, JIRA, OTRS, AWS(DynamoDB, S3, EC2), nginx, git];
+protocols: [TCP/IP, DHCP, DNS, HTTP, HTTPS, FTP, SSH];
+virtualization: [Proxmox 5.x, Parallels for Mac, VBox 5.x+ OpenStack, VMware];
+frontend: [Javascript (ES5 and ES6+), HTML5, CSS3, React, Next.js, Tailwind CSS, Typescript]
+backend: [Node.js, Express, MySQL, PostgreSQL, RESTful API, Ruby, Rails, Prisma]
+testingDeployment: [Jest, Mocha, Chai, React Testing Library, NGINX, AWS(DynamoDB, S3, EC2), Cypress]
+devTools: [Git, npm, Webpack, babel, Agile Methodology, TDD]
 }
 ```
 
