@@ -9,7 +9,6 @@
 
 ```javascript
 const technicalSkills = {
-protocols: [TCP/IP, DHCP, DNS, HTTP, HTTPS, FTP, SSH];
 virtualization: [Proxmox 5.x, Parallels for Mac, VBox 5.x+ OpenStack, VMware];
 frontend: [Javascript (ES5 and ES6+), HTML5, CSS3, React, Next.js, Tailwind CSS, Typescript]
 backend: [Node.js, Express, MySQL, PostgreSQL, RESTful API, Ruby, Rails, Prisma]
