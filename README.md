@@ -2,11 +2,6 @@
 
 <img src="https://media3.giphy.com/media/mXbQ2IU02cGRhBO2ye/giphy.gif" width="50"> 
 
-- I'm currently learning Fullstack development
-- Long term goals: Web3 development
-- Hobby: Guitar, Music, Producing and Video Games
-
-
 ```javascript
 const technicalSkills = {
 virtualization: [Proxmox 5.x, Parallels for Mac, VBox 5.x+ OpenStack, VMware];
