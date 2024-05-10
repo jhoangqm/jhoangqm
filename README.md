@@ -15,7 +15,6 @@ devTools: [Git, npm, Webpack, babel, Agile Methodology, TDD]
 ## Connect with me!
 
 [![Linkedin: jimmy-hoang](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimmy-hoang/)
-[![Discord 1set.ky](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/127745669875236864)
 
 
 
