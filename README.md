@@ -4,16 +4,26 @@
 
 ```javascript
 const technicalSkills = {
-virtualization: [Proxmox 5.x, Parallels for Mac, VBox 5.x+ OpenStack, VMware];
-languages: [Javascript (ES5 and ES6+), Typescript, Ruby, Python];
-frontend: [HTML5, CSS3, React, Next.js, Tailwind CSS, Material UI, SCSS];
-backend: [Node.js, Express, Django Rest Framework, Ruby on Rails, MySQL, PostgreSQL, MongoDB, Firebase,
-Supabase, Prisma, RESTful API, Socket.IO, Microservices, NGINX, AWS: EC2, S3, RDS, DynamoDB, Lambda, Gateway
-API, Websockets];
-Automation/Testing/Tools: [ Gen AI, OpenAI, Selenium, BeautifulSoup, Jest, Mocha, Chai, Cypress, React Testing
-Library, New Relic, K6, Loader.io, Vercel, CRON jobs, Docker, Twilio, Sendgrid, Stripe, Figma, Notion, Startups
-];
-}
+  virtualization: ['Proxmox 5.x', 'Parallels for Mac', 'VBox 5.x+', 'OpenStack', 'VMware'],
+  languages: ['JavaScript (ES5 and ES6+)', 'TypeScript', 'Ruby', 'Python'],
+  frontend: ['HTML5', 'CSS3', 'React', 'Next.js', 'Tailwind CSS', 'Material UI', 'SCSS'],
+  backend: [
+    'Node.js', 'Express', 'Django Rest Framework', 'Ruby on Rails', 'MySQL', 'PostgreSQL', 
+    'MongoDB', 'Firebase', 'Supabase', 'Prisma', 'RESTful API', 'Socket.IO', 'Microservices', 
+    'NGINX', 'AWS: EC2, S3, RDS, DynamoDB, Lambda, Gateway API', 'Websockets'
+  ],
+  automationTestingTools: {
+    automation: ['Selenium', 'BeautifulSoup', 'CRON jobs', 'Docker'],
+    testing: [
+      'Jest', 'Mocha', 'Chai', 'Cypress', 
+      'React Testing Library', 'K6', 'Loader.io', 'New Relic'
+    ],
+    aiTools: ['Gen AI', 'OpenAI'],
+    deploymentCI: ['Vercel'],
+    miscellaneous: ['Twilio', 'SendGrid', 'Stripe', 'Figma', 'Notion', 'Startups']
+  }
+};
+
 ```
 
 ## Connect with me!
