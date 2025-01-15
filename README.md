@@ -5,10 +5,14 @@
 ```javascript
 const technicalSkills = {
 virtualization: [Proxmox 5.x, Parallels for Mac, VBox 5.x+ OpenStack, VMware];
-frontend: [Javascript (ES5 and ES6+), HTML5, CSS3, React, Next.js, Tailwind CSS, Typescript]
-backend: [Node.js, Express, MySQL, PostgreSQL, RESTful API, Ruby, Rails, Prisma]
-testingDeployment: [Jest, Mocha, Chai, React Testing Library, NGINX, AWS(DynamoDB, S3, EC2), Cypress]
-devTools: [Git, npm, Webpack, babel, Agile Methodology, TDD]
+languages: [Javascript (ES5 and ES6+), Typescript, Ruby, Python];
+frontend: [HTML5, CSS3, React, Next.js, Tailwind CSS, Material UI, SCSS];
+backend: [Node.js, Express, Django Rest Framework, Ruby on Rails, MySQL, PostgreSQL, MongoDB, Firebase,
+Supabase, Prisma, RESTful API, Socket.IO, Microservices, NGINX, AWS: EC2, S3, RDS, DynamoDB, Lambda, Gateway
+API, Websockets];
+Automation/Testing/Tools: [ Gen AI, OpenAI, Selenium, BeautifulSoup, Jest, Mocha, Chai, Cypress, React Testing
+Library, New Relic, K6, Loader.io, Vercel, CRON jobs, Docker, Twilio, Sendgrid, Stripe, Figma, Notion, Startups
+];
 }
 ```
 
